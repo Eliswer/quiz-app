@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+}
+
+section {
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
